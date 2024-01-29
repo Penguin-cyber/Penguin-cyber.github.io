@@ -6,6 +6,6 @@ ul {
   margin-right: auto;
 }
 .selection {
-  margin-left: auto;
+  margin-left: auto + 75;
   margin-right: auto;
 }
